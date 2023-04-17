@@ -86,22 +86,22 @@ This project contains several object-oriented programming (OOP) projects, includ
 
  
 
-1.            Binary Search Algorithm: The Binary Search Algorithm is a classic searching algorithm that uses the concept of divide and conquer. The algorithm works by dividing the search interval in half at every iteration and eliminating the half where the target element cannot exist. The implementation of the algorithm involves sorting the elements to be searched, and it returns the index of the target element if found, or -1 if not found.
+• Binary Search Algorithm: The Binary Search Algorithm is a classic searching algorithm that uses the concept of divide and conquer. The algorithm works by dividing the search interval in half at every iteration and eliminating the half where the target element cannot exist. The implementation of the algorithm involves sorting the elements to be searched, and it returns the index of the target element if found, or -1 if not found.
 
-2.            Buying a House: Buying a House is a simple application that calculates the monthly mortgage payment for a given loan amount, interest rate, and term. It prompts the user to input these parameters, and it uses a mathematical formula to calculate the monthly payment. The user can also input additional costs such as property tax and insurance to calculate the total monthly payment.
+• Buying a House: Buying a House is a simple application that calculates the monthly mortgage payment for a given loan amount, interest rate, and term. It prompts the user to input these parameters, and it uses a mathematical formula to calculate the monthly payment. The user can also input additional costs such as property tax and insurance to calculate the total monthly payment.
 
-3.            CVS Retrieving Data: CVS Retrieving Data is a simple application that retrieves and displays data from a CSV (comma-separated values) file. The user inputs the name of the file and the desired row and column, and the application retrieves and displays the data in that cell.
+• CVS Retrieving Data: CVS Retrieving Data is a simple application that retrieves and displays data from a CSV (comma-separated values) file. The user inputs the name of the file and the desired row and column, and the application retrieves and displays the data in that cell.
 
-4.            Dictionary Definition: Dictionary Definition is a simple application that retrieves the definition of a word from an online dictionary. The user inputs the desired word, and the application retrieves the definition from the online dictionary and displays it on the screen.
+• Dictionary Definition: Dictionary Definition is a simple application that retrieves the definition of a word from an online dictionary. The user inputs the desired word, and the application retrieves the definition from the online dictionary and displays it on the screen.
 
-5.            Encryption Project: Encryption Project is a simple encryption and decryption application that uses a Caesar Cipher algorithm. The user inputs a message and a key, and the application encrypts the message using the key. The user can also input an encrypted message and a key, and the application decrypts the message using the key.
+• Encryption Project: Encryption Project is a simple encryption and decryption application that uses a Caesar Cipher algorithm. The user inputs a message and a key, and the application encrypts the message using the key. The user can also input an encrypted message and a key, and the application decrypts the message using the key.
 
-6.            Fibonacci: Fibonacci is a simple application that generates a Fibonacci sequence of a given length. The user inputs the length of the sequence, and the application generates the sequence and displays it on the screen.
+• Fibonacci: Fibonacci is a simple application that generates a Fibonacci sequence of a given length. The user inputs the length of the sequence, and the application generates the sequence and displays it on the screen.
 
-7.            Fizz Buzz: Fizz Buzz is a simple application that prints numbers from 1 to a given number. If the number is divisible by 3, it prints "Fizz" instead of the number. If the number is divisible by 5, it prints "Buzz" instead of the number. If the number is divisible by both 3 and 5, it prints "Fizz Buzz" instead of the number.
+• Fizz Buzz: Fizz Buzz is a simple application that prints numbers from 1 to a given number. If the number is divisible by 3, it prints "Fizz" instead of the number. If the number is divisible by 5, it prints "Buzz" instead of the number. If the number is divisible by both 3 and 5, it prints "Fizz Buzz" instead of the number.
 
-8.            Grade Calculator: A grade Calculator is a simple application that calculates the average grade of a student based on their test scores. The user inputs the number of tests and their corresponding scores, and the application calculates the average grade and displays it on the screen.
+•  Grade Calculator: A grade Calculator is a simple application that calculates the average grade of a student based on their test scores. The user inputs the number of tests and their corresponding scores, and the application calculates the average grade and displays it on the screen.
 
-9.            Greatest Common Divisor: Greatest Common Divisor is a simple application that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm. The user inputs the two numbers, and the application calculates the GCD and displays it on the screen.
+• Greatest Common Divisor: Greatest Common Divisor is a simple application that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm. The user inputs the two numbers, and the application calculates the GCD and displays it on the screen.
 
-10.       Guessing Game: Guessing Game is a simple game where the user tries to guess a randomly generated number within a given range. The user inputs their guess, and the application tells them whether their guess is too high or too low. The game continues until the user guesses the correct number.
+• Guessing Game: Guessing Game is a simple game where the user tries to guess a randomly generated number within a given range. The user inputs their guess, and the application tells them whether their guess is too high or too low. The game continues until the user guesses the correct number.
