@@ -1,41 +1,107 @@
-# Beginner-Projects
-This repository contains projects from 2020 to the recent days.
-PS: To run all the following applications, its required to have an Python and Java IDE(Visual Studio, PyCharm, IntelliJ, etc.), some of them requires library installation.
+Beginner Projects
 
-1 - Binary Search Algorithm
-This app (written in Java) searches for a given number and looks trough it in a array and it returns its index. 
+Welcome to the Beginner Projects repository! This repository contains a collection of beginner-level projects written in Java and Python. The purpose of this repository is to help beginners to learn to program and develop their skills by working on these projects.
 
-2 - Body Mass Index
-This app (written in java) get the input of heigh in meters and weight in kilograms and return the body index. It is simple to run this app, it only requires and IDE that support java.
+Java Projects
 
-3 - Graphical User Interface - this an folder that contains some GUI application. (All the applications are written in Python) To run the following apps it is required to be installed Tkinter library and an IDE that supports Python.
- - 1 - Age calculator - used Tkinter library to build this app, it takes month, day and year and it displays your age accordingly.
- - 2 - Body Mass Index - calculates the BMI
- - 3 - Digital Clock - Displays the current date and time, Contains functions such as countdown, stopwatch and alarm
- - 4 - Fibonacci - Displays the Fibonacci sequence
- - 5 - Leap Year - Determines if the year inputted is leap or not
- - 6 - Password Saver - Saves website, the username and the password inputted into a MYSQL database, allows user to get the data, delete and update them.
- - 7 - Python Calculator - Works as a simple calculator, implements methods such as getsquareroot, check_if_prime and check_factors
- - 8 - Random Password Generator - Return a random password that contains string, digits and numbers
- - 9 - To do List - adds, deletes, crosses, uncrosses data into the tkinter box, it also saves and open files in your machine directory.
- - 10 - Wrestler Data - Retrieves data from a csv(Wrestler.csv) file and displays their information
- - 11 YouTube Video Downloader - Download video clips from YouTube. To be able to run this program it is required to have Pytube installed.
+•	Binary Search Algorithm
+
+This project is an implementation of the Binary Search Algorithm in Java. The project allows the user to enter an array of integers and search for a specific integer using the Binary Search Algorithm.
+
+•	Body Mass Index
+
+This project is a simple program that calculates the body mass index (BMI) of a person. The user is prompted to enter their weight and height, and the program calculates their BMI.
+
+•	Leap Year
+
+This project is a program that determines whether a given year is a leap year or not. The user is prompted to enter a year, and the program checks whether the year is a leap year or not.
+
+•	Simple Grocery Store Project
+
+This project is a simple grocery store program that allows the user to add, edit, and delete items from the inventory. The program also calculates the total price of the items in the inventory.
+
+•	Simple High School Project
+
+This project is a simple program that calculates the average grade of a student. The user is prompted to enter the grades of the student, and the program calculates their average grade.
+
+•	Simple Math Modules
+
+This project contains simple math modules that perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+•	Simple Student Management
+
+This project is a simple student management program that allows the user to add, edit, and delete students from a database. The program also calculates the average grade of the students.
+
+Python Projects
+
+	Graphical User Interface
+
+This project contains several applications that are built using the Tkinter library. The applications include:
+
+•   Age Calculator: This application takes the user's date of birth as input and displays their age.
  
-- 4 - Guessing Game - First version - Allows user to guess a number and it gives feedback, second version - the computer guesses a number and you provide feedback.
-- 5 - Leap Year - Written in Java, this app year input and it return if it is a leap year or not.
-- 6 - Movie Guess Game - Written in Python, this app uses Object Oriented Programming to display the options and get the input and it returns the users score
-- 7 - Python Applications:
-  - 1 - Binary Search Algorithm - This app searches for a given number and looks trough it in a array and it returns its index. 
-  - 2 - Buying a House - Takes some inputs from the user and it return the year left until buying a house
-  - 3 - CSV Retreating Data - Reads some CSV files and return information contained in it
-  - 4 - Fibonacci - prints Fibonacci sequence
-  - 5 - Fizz Buzz - Takes a number as a input and if it is divisible for 3 it prints out fizz, by 5 it prints out buzz and, if it divisible by both it prints out Fizz Buzz
- - 6 - Grades Calculator - Takes float inputs and displays the grade
- - 7 - Greatest Common Divider - Prints out the GCD
- - 8 - House Hunter - Based on the information provided it prints out how many years until buying a house
- - 9 - Lottery App - Takes users input and it returns feedback based on the right lottery numbers.
- - 10 - Password Saver - Saves the password and username into a txt database
- - Word Pig Latin - searches for vowels, after finding the first one it addeltes it and it appends it in the back of the work, and it concatenates the letters a and y
- - 11 - Using an square root algorithm, it determines if the number inputted is a prime or not.
- - 12 - Simple Student Database - gets the data of a txt file, and and it stores each row in a dictionary and inserts it inside of a list. It allows the user to add and ritrive the information.
- - 13 - Temperature conversion - Converts Fahrenheit to Celsius and vice-versa
+![Python - Age Calculator](https://user-images.githubusercontent.com/116610989/232366040-a82b4334-4bf9-4b97-b4e7-2ebab1183b33.png)
+
+•   Body Mass Index: This application calculates the BMI of a person based on their weight and height.
+ ![Python - BMI Calculator](https://user-images.githubusercontent.com/116610989/232366095-52fb0f57-1b57-4266-a62d-c461140d58d9.png)
+
+•   Digital Clock: This application displays the current date and time and contains functions such as countdown, stopwatch, and alarm. 
+ ![Python - Digital Clock](https://user-images.githubusercontent.com/116610989/232366107-2148cc89-66bd-42ce-99e8-3a2c29f8ed43.png)
+
+•   Expenses Tracker: This application tracks the user's expenses and displays a summary of their expenses.
+
+•   Fibonacci: This application generates the Fibonacci sequence up to a given number.
+![Python - Fibonnacci Terms](https://user-images.githubusercontent.com/116610989/232366117-4afae104-bfce-4c9f-8cf4-bc0c4c57dca9.png)
+
+•   Leap Year: This application determines whether a given year is a leap year or not.
+![Python - Leap Year](https://user-images.githubusercontent.com/116610989/232366127-e8965971-e9e7-45f1-9208-c42d432409c6.png)
+
+•   Password Saver: This application saves website, username, and password data into a MySQL database and allows the user to retrieve, delete, and update the data.
+![Python - Password Saver](https://user-images.githubusercontent.com/116610989/232366138-0a9344cb-f0a7-4dc3-9a7a-f9e88a9f5020.png)
+
+•   Python Calculator: This application is a simple calculator that performs basic mathematical operations.
+![Python - Calculator App](https://user-images.githubusercontent.com/116610989/232366150-c5ac9dca-ab51-45f0-adae-d29bb64e9eba.png)
+
+•   Random Password Generator: This application generates a random password based on the user's preferences.
+![Python - Random Password Generator](https://user-images.githubusercontent.com/116610989/232366163-78c38c3a-0d4a-45f6-9d7d-5d39caeccddf.png)
+
+•   To-Do List: This application allows the user to add, delete, cross, and uncross items in a list and save and open files in their machine directory.
+
+•   Data Retrieval: This application retrieves data from a MySQL database.
+![Python - Wrestler Data](https://user-images.githubusercontent.com/116610989/232366186-5a3e68f8-ec03-4c1a-9778-fe6caf321626.png)
+
+•   YouTube Video Downloader: This application allows the user to download YouTube videos.
+
+	Object Oriented Programming
+
+This project contains several object-oriented programming (OOP) projects, including:
+
+•   Movie Quiz Game: This game quizzes the user on their knowledge of movies.
+
+• Quiz App: This application quizzes the user on various topics.
+
+•   Simple Grocery Store Project: This project is a simple grocery store program that allows the user to add, edit, and delete items from the inventory. The program also calculates the total price of the items in the inventory.
+
+•   Simple High School Project: This project is a simple program that calculates the average grade of a student. The user is prompted to enter the grades of the student, and the program calculates their average grade.
+
+ 
+
+1.            Binary Search Algorithm: The Binary Search Algorithm is a classic searching algorithm that uses the concept of divide and conquer. The algorithm works by dividing the search interval in half at every iteration and eliminating the half where the target element cannot exist. The implementation of the algorithm involves sorting the elements to be searched, and it returns the index of the target element if found, or -1 if not found.
+
+2.            Buying a House: Buying a House is a simple application that calculates the monthly mortgage payment for a given loan amount, interest rate, and term. It prompts the user to input these parameters, and it uses a mathematical formula to calculate the monthly payment. The user can also input additional costs such as property tax and insurance to calculate the total monthly payment.
+
+3.            CVS Retrieving Data: CVS Retrieving Data is a simple application that retrieves and displays data from a CSV (comma-separated values) file. The user inputs the name of the file and the desired row and column, and the application retrieves and displays the data in that cell.
+
+4.            Dictionary Definition: Dictionary Definition is a simple application that retrieves the definition of a word from an online dictionary. The user inputs the desired word, and the application retrieves the definition from the online dictionary and displays it on the screen.
+
+5.            Encryption Project: Encryption Project is a simple encryption and decryption application that uses a Caesar Cipher algorithm. The user inputs a message and a key, and the application encrypts the message using the key. The user can also input an encrypted message and a key, and the application decrypts the message using the key.
+
+6.            Fibonacci: Fibonacci is a simple application that generates a Fibonacci sequence of a given length. The user inputs the length of the sequence, and the application generates the sequence and displays it on the screen.
+
+7.            Fizz Buzz: Fizz Buzz is a simple application that prints numbers from 1 to a given number. If the number is divisible by 3, it prints "Fizz" instead of the number. If the number is divisible by 5, it prints "Buzz" instead of the number. If the number is divisible by both 3 and 5, it prints "Fizz Buzz" instead of the number.
+
+8.            Grade Calculator: A grade Calculator is a simple application that calculates the average grade of a student based on their test scores. The user inputs the number of tests and their corresponding scores, and the application calculates the average grade and displays it on the screen.
+
+9.            Greatest Common Divisor: Greatest Common Divisor is a simple application that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm. The user inputs the two numbers, and the application calculates the GCD and displays it on the screen.
+
+10.       Guessing Game: Guessing Game is a simple game where the user tries to guess a randomly generated number within a given range. The user inputs their guess, and the application tells them whether their guess is too high or too low. The game continues until the user guesses the correct number.
