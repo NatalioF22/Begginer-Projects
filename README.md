@@ -40,7 +40,8 @@ Applications built using the Tkinter library:
 
 ## C Projects
 - **Natural Numbers Calculation:** Performs calculations on natural numbers.
-- **Temperature Converter:** Converts temperatures between Fahrenheit, Celsius, and Kelvin.
+- **Temperature Converter:** Converts temperatures between Fahrenheit and Celsius.
+- **Prime number Chceker:** Checks if a number is prime by using the square root algorithm.
 
 ## Conclusion
 This repository contains a variety of beginner-level projects in Java, Python, JavaScript, and C. Each project is designed to help beginners develop their programming skills by working on practical applications. Feel free to clone the repository, try out the projects, and make improvements or add new features. Happy coding!
