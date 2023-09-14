@@ -1,107 +1,48 @@
-Beginner Projects
+# Beginner Projects Repository
 
-Welcome to the Beginner Projects repository! This repository contains a collection of beginner-level projects written in Java and Python. The purpose of this repository is to help beginners to learn to program and develop their skills by working on these projects.
+Welcome to the Beginner Projects repository! This repository contains a collection of beginner-level projects written in Java, Python, JavaScript, and C. The purpose of this repository is to help beginners develop their programming skills by working on practical applications.
 
-Java Projects
+## Java Projects
+- **Binary Search Algorithm:** Implementation of the Binary Search Algorithm.
+- **Body Mass Index:** Program to calculate Body Mass Index (BMI).
+- **Leap Year:** Program to check if a year is a leap year.
+- **Simple Grocery Store Project:** Program to manage grocery store inventory.
+- **Simple High School Project:** Program to calculate the average grade of a student.
+- **Simple Math Modules:** Modules to perform basic mathematical operations.
+- **Simple Student Management:** Program to manage student database.
 
-•	Binary Search Algorithm
+## Python Projects
+### Graphical User Interface
+Applications built using the Tkinter library:
 
-This project is an implementation of the Binary Search Algorithm in Java. The project allows the user to enter an array of integers and search for a specific integer using the Binary Search Algorithm.
+- **Age Calculator:** Calculates age from date of birth.
+- **Body Mass Index:** Calculates BMI from weight and height.
+- **Digital Clock:** Displays current date and time with additional functions.
+- **Expenses Tracker:** Tracks and summarizes expenses.
+- **Fibonacci:** Generates Fibonacci sequence up to a given number.
+- **Leap Year:** Checks if a given year is a leap year.
+- **Password Saver:** Manages password data in a MySQL database.
+- **Python Calculator:** Performs basic mathematical operations.
+- **Random Password Generator:** Generates a random password based on preferences.
+- **To-Do List:** Manages a to-do list and saves/open files in machine directory.
+- **Data Retrieval:** Retrieves data from a MySQL database.
+- **YouTube Video Downloader:** Downloads YouTube videos.
 
-•	Body Mass Index
+### Object-Oriented Programming
+- **Movie Quiz Game:** Quizzes user on movie knowledge.
+- **Quiz App:** Quizzes user on various topics.
+- **Simple Grocery Store Project:** Manages grocery store inventory.
+- **Simple High School Project:** Calculates the average grade of a student.
 
-This project is a simple program that calculates the body mass index (BMI) of a person. The user is prompted to enter their weight and height, and the program calculates their BMI.
+## JavaScript Projects
+- **Dice Roller:** Simulates rolling of dice.
+- **Guessing Number:** Game to guess a randomly generated number.
 
-•	Leap Year
+## C Projects
+- **Natural Numbers Calculation:** Performs calculations on natural numbers.
+- **Temperature Converter:** Converts temperatures between Fahrenheit, Celsius, and Kelvin.
 
-This project is a program that determines whether a given year is a leap year or not. The user is prompted to enter a year, and the program checks whether the year is a leap year or not.
+## Conclusion
+This repository contains a variety of beginner-level projects in Java, Python, JavaScript, and C. Each project is designed to help beginners develop their programming skills by working on practical applications. Feel free to clone the repository, try out the projects, and make improvements or add new features. Happy coding!
 
-•	Simple Grocery Store Project
-
-This project is a simple grocery store program that allows the user to add, edit, and delete items from the inventory. The program also calculates the total price of the items in the inventory.
-
-•	Simple High School Project
-
-This project is a simple program that calculates the average grade of a student. The user is prompted to enter the grades of the student, and the program calculates their average grade.
-
-•	Simple Math Modules
-
-This project contains simple math modules that perform basic mathematical operations such as addition, subtraction, multiplication, and division.
-
-•	Simple Student Management
-
-This project is a simple student management program that allows the user to add, edit, and delete students from a database. The program also calculates the average grade of the students.
-
-Python Projects
-
-	Graphical User Interface
-
-This project contains several applications that are built using the Tkinter library. The applications include:
-
-•   Age Calculator: This application takes the user's date of birth as input and displays their age.
- 
-![Python - Age Calculator](https://user-images.githubusercontent.com/116610989/232366040-a82b4334-4bf9-4b97-b4e7-2ebab1183b33.png)
-
-•   Body Mass Index: This application calculates the BMI of a person based on their weight and height.
- ![Python - BMI Calculator](https://user-images.githubusercontent.com/116610989/232366095-52fb0f57-1b57-4266-a62d-c461140d58d9.png)
-
-•   Digital Clock: This application displays the current date and time and contains functions such as countdown, stopwatch, and alarm. 
- ![Python - Digital Clock](https://user-images.githubusercontent.com/116610989/232366107-2148cc89-66bd-42ce-99e8-3a2c29f8ed43.png)
-
-•   Expenses Tracker: This application tracks the user's expenses and displays a summary of their expenses.
-
-•   Fibonacci: This application generates the Fibonacci sequence up to a given number.
-![Python - Fibonnacci Terms](https://user-images.githubusercontent.com/116610989/232366117-4afae104-bfce-4c9f-8cf4-bc0c4c57dca9.png)
-
-•   Leap Year: This application determines whether a given year is a leap year or not.
-![Python - Leap Year](https://user-images.githubusercontent.com/116610989/232366127-e8965971-e9e7-45f1-9208-c42d432409c6.png)
-
-•   Password Saver: This application saves website, username, and password data into a MySQL database and allows the user to retrieve, delete, and update the data.
-![Python - Password Saver](https://user-images.githubusercontent.com/116610989/232366138-0a9344cb-f0a7-4dc3-9a7a-f9e88a9f5020.png)
-
-•   Python Calculator: This application is a simple calculator that performs basic mathematical operations.
-![Python - Calculator App](https://user-images.githubusercontent.com/116610989/232366150-c5ac9dca-ab51-45f0-adae-d29bb64e9eba.png)
-
-•   Random Password Generator: This application generates a random password based on the user's preferences.
-![Python - Random Password Generator](https://user-images.githubusercontent.com/116610989/232366163-78c38c3a-0d4a-45f6-9d7d-5d39caeccddf.png)
-
-•   To-Do List: This application allows the user to add, delete, cross, and uncross items in a list and save and open files in their machine directory.
-
-•   Data Retrieval: This application retrieves data from a MySQL database.
-![Python - Wrestler Data](https://user-images.githubusercontent.com/116610989/232366186-5a3e68f8-ec03-4c1a-9778-fe6caf321626.png)
-
-•   YouTube Video Downloader: This application allows the user to download YouTube videos.
-
-	Object Oriented Programming
-
-This project contains several object-oriented programming (OOP) projects, including:
-
-•   Movie Quiz Game: This game quizzes the user on their knowledge of movies.
-
-• Quiz App: This application quizzes the user on various topics.
-
-•   Simple Grocery Store Project: This project is a simple grocery store program that allows the user to add, edit, and delete items from the inventory. The program also calculates the total price of the items in the inventory.
-
-•   Simple High School Project: This project is a simple program that calculates the average grade of a student. The user is prompted to enter the grades of the student, and the program calculates their average grade.
-
- 
-
-• Binary Search Algorithm: The Binary Search Algorithm is a classic searching algorithm that uses the concept of divide and conquer. The algorithm works by dividing the search interval in half at every iteration and eliminating the half where the target element cannot exist. The implementation of the algorithm involves sorting the elements to be searched, and it returns the index of the target element if found, or -1 if not found.
-
-• Buying a House: Buying a House is a simple application that calculates the monthly mortgage payment for a given loan amount, interest rate, and term. It prompts the user to input these parameters, and it uses a mathematical formula to calculate the monthly payment. The user can also input additional costs such as property tax and insurance to calculate the total monthly payment.
-
-• CVS Retrieving Data: CVS Retrieving Data is a simple application that retrieves and displays data from a CSV (comma-separated values) file. The user inputs the name of the file and the desired row and column, and the application retrieves and displays the data in that cell.
-
-• Dictionary Definition: Dictionary Definition is a simple application that retrieves the definition of a word from an online dictionary. The user inputs the desired word, and the application retrieves the definition from the online dictionary and displays it on the screen.
-
-• Encryption Project: Encryption Project is a simple encryption and decryption application that uses a Caesar Cipher algorithm. The user inputs a message and a key, and the application encrypts the message using the key. The user can also input an encrypted message and a key, and the application decrypts the message using the key.
-
-• Fibonacci: Fibonacci is a simple application that generates a Fibonacci sequence of a given length. The user inputs the length of the sequence, and the application generates the sequence and displays it on the screen.
-
-• Fizz Buzz: Fizz Buzz is a simple application that prints numbers from 1 to a given number. If the number is divisible by 3, it prints "Fizz" instead of the number. If the number is divisible by 5, it prints "Buzz" instead of the number. If the number is divisible by both 3 and 5, it prints "Fizz Buzz" instead of the number.
-
-•  Grade Calculator: A grade Calculator is a simple application that calculates the average grade of a student based on their test scores. The user inputs the number of tests and their corresponding scores, and the application calculates the average grade and displays it on the screen.
-
-• Greatest Common Divisor: Greatest Common Divisor is a simple application that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm. The user inputs the two numbers, and the application calculates the GCD and displays it on the screen.
-
-• Guessing Game: Guessing Game is a simple game where the user tries to guess a randomly generated number within a given range. The user inputs their guess, and the application tells them whether their guess is too high or too low. The game continues until the user guesses the correct number.
+---
